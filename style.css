@@ -1,0 +1,28 @@
+body {
+	
+	background-color: pink;
+}
+
+div {
+	height: 3px;
+	width: 300px;
+	background-color: white;
+	border-radius: 3px;
+}
+
+a {
+	
+	color: black;
+}
+
+table {
+	
+	border: 5px solid white;
+	border-radius: 3px;
+}
+
+img {
+	
+	border: 5px solid white;
+	border-radius: 3px;
+}
