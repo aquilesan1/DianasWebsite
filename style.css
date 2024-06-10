@@ -29,6 +29,12 @@ img {
 
 .img1 {
 	
+	height: 50%;
+	width: 40%;
+}
+
+.img2 {
+	
 	height: 40%;
 	width: 30%;
 }
